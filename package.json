@@ -1,0 +1,40 @@
+{
+  "name": "sorted-double-linked-list",
+  "version": "0.0.1",
+  "description": "Implementation of sorted double linked list backed by AVL tree. The sort order is ascending",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ngocson1/SortedDoubleLinkedList.git"
+  },
+  "keywords": [
+    "AVL",
+    "tree",
+    "Double",
+    "linked",
+    "list"
+  ],
+  "author": "Ngoc Son Le",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ngocson1/SortedDoubleLinkedList/issues"
+  },
+  "homepage": "https://github.com/ngocson1/SortedDoubleLinkedList#readme",
+  "devDependencies": {
+    "@types/chai": "^4.1.4",
+    "@types/collections": "^5.0.0",
+    "@types/debug": "0.0.30",
+    "@types/mocha": "^5.2.4",
+    "@types/node": "^10.5.2",
+    "chai": "^4.1.2",
+    "collections": "^5.1.4",
+    "debug": "^3.1.0",
+    "mocha": "^5.2.0",
+    "ts-node": "^7.0.0",
+    "tslint": "^5.10.0",
+    "typescript": "^2.9.2"
+  }
+}
